@@ -34,5 +34,5 @@ O layout é moderno e minimalista, utilizando a fonte Inter e uma paleta de core
 ## 🌐 Visualização
 
 Para visualizar o projeto, 
-[Clique Aqui](URL)
+[Clique Aqui](https://gucha36.github.io/site-minimalista-psi/)
 
